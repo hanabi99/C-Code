@@ -1,0 +1,5 @@
+﻿  Virtual.cpp
+D:\CPP\HelloWorld\Virtual\Virtual.cpp(24,23): warning C4584: “Player”: 基类“Printable”已是“Entity”的基类
+D:\CPP\HelloWorld\Virtual\Virtual.cpp(8): message : 参见“Printable”的声明
+D:\CPP\HelloWorld\Virtual\Virtual.cpp(14): message : 参见“Entity”的声明
+  Virtual.vcxproj -> D:\CPP\HelloWorld\x64\Debug\Virtual.exe
