@@ -1,2 +1,5 @@
 ﻿  Log.cpp
-  HelloWorld.vcxproj -> D:\CPP\HelloWorld\x64\Debug\HelloWorld.exe
+  Main.cpp
+D:\OriginCode\C-Code\HelloWorld\HelloWorld\Main.cpp(13,6): warning C4101: “arr”: 未引用的局部变量
+  正在生成代码...
+  HelloWorld.vcxproj -> D:\OriginCode\C-Code\HelloWorld\x64\Debug\HelloWorld.exe
